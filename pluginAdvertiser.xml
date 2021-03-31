@@ -628,6 +628,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.gaedocker">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.google.gct.core" />
+              <option name="myPluginName" value="com.google.gct.core" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.gant">
           <value>
             <plugin>
