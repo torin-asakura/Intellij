@@ -11,6 +11,7 @@
         <option name="suppressed">
           <set>
             <option value="вместо HTTP" />
+            <option value="которая может быть использована в формах или в любом другом месте документа, который" />
           </set>
         </option>
       </SuppressingContext>
