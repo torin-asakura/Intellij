@@ -8,6 +8,9 @@
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
   </JSCodeStyleSettings>
+  <PHPCodeStyleSettings>
+    <option name="INDENT_CODE_IN_PHP_TAGS" value="true" />
+  </PHPCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="JSDOC_INCLUDE_TYPES" value="true" />
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
@@ -18,7 +21,21 @@
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
   </TypeScriptCodeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="PHP">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
