@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts*" />
     <mask>*toml</mask>
     <mask>*tsx</mask>
     <mask>*json</mask>
@@ -17,7 +18,7 @@
     <mask>*.java</mask>
     <mask>*.ts</mask>
     <mask>*.json</mask>
-    <mask>*.ts*</mask>
     <mask>*.js*</mask>
+    <mask>*.ts*</mask>
   </component>
 </application>
