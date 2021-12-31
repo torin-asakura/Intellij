@@ -17,5 +17,6 @@
     <mask>*.java</mask>
     <mask>*.ts</mask>
     <mask>*.ts*</mask>
+    <mask>*.json</mask>
   </component>
 </application>
