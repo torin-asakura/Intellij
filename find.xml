@@ -17,5 +17,6 @@
     <mask>*.js*</mask>
     <mask>*.ts*</mask>
     <mask>*.json</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
