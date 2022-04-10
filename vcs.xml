@@ -6,9 +6,13 @@
           <option name="url" value="git@gitlab.com:SSMM_AI/vkboss-autolike.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:RFRIT/template.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/workspace/vkboss" />
+    <option name="cloneParentDir" value="$USER_HOME$/workspace/rfrit" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
