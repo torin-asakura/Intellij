@@ -19,8 +19,8 @@
     <mask>*.yaml</mask>
     <mask>*.js</mask>
     <mask>*.ts*</mask>
-    <mask>*.tsx</mask>
-    <mask>*.ts</mask>
     <mask>*.json</mask>
+    <mask>*.ts</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
