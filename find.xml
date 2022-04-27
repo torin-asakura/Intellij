@@ -17,10 +17,10 @@
     <mask>*.java</mask>
     <mask>*.js*</mask>
     <mask>*.yaml</mask>
-    <mask>*.json</mask>
     <mask>*.js</mask>
-    <mask>*.ts</mask>
     <mask>*.ts*</mask>
     <mask>*.tsx</mask>
+    <mask>*.ts</mask>
+    <mask>*.json</mask>
   </component>
 </application>
