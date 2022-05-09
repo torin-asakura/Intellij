@@ -351,9 +351,7 @@
         </entry>
         <entry key="com.intellij.kubernetes">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.intellij.lang.jsgraphql">
