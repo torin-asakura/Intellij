@@ -58,6 +58,10 @@
           <option name="url" value="git@gitlab.i-link.pro:banxe/banxe-identity.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:ilink-pro/dsm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/workspace/ilink" />
