@@ -74,9 +74,33 @@
           <option name="url" value="git@github.com:strapi/strapi.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.gitlab.openmonet.com:appllications/frontend/clients-demo-stand.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.gitlab.openmonet.com:appllications/frontend/customers-demo-stand.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.gitlab.openmonet.com:appllications/frontend/openmonet-connector.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.gitlab.openmonet.com:appllications/frontend/openmonet-crm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.gitlab.openmonet.com:appllications/frontend/openmonet-website.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.gitlab.openmonet.com:appllications/frontend/openmonet-widget.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/workspace/strapi" />
+    <option name="cloneParentDir" value="$USER_HOME$/workspace/openmonet" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
