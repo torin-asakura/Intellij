@@ -102,6 +102,14 @@
           <option name="url" value="git@ssh.gitlab.openmonet.com:appllications/frontend/openmonet-docs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.gitlab.openmonet.com:appllications/frontend/parimatch-demo-lab.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.gitlab.openmonet.com:appllications/frontend/trader-cabinet.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/workspace/openmonet" />
