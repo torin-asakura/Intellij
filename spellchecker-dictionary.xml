@@ -7,6 +7,7 @@
       <w>jwks</w>
       <w>oneofs</w>
       <w>shdvor</w>
+      <w>typecheck</w>
     </words>
   </component>
 </application>
