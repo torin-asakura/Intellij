@@ -142,9 +142,21 @@
           <option name="url" value="git@github.com:Bitwhale-casino/bustabitgame.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Bitwhale-casino/bustabitwebserver.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Bitwhale-casino/bitwhale-casino.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Bitwhale-casino/bustabit-core.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/workspace" />
+    <option name="cloneParentDir" value="$USER_HOME$/workspace/bitwhale" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
