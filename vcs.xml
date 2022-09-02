@@ -154,9 +154,13 @@
           <option name="url" value="git@github.com:Bitwhale-casino/bustabit-core.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:atls/free-room.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/workspace/bitwhale" />
+    <option name="cloneParentDir" value="$USER_HOME$/workspace/mainbrain" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
