@@ -162,9 +162,13 @@
           <option name="url" value="git@github.com:MainBrainDev/free-rooms.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:kshilov/2kstudy-main.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/workspace/mainbrain" />
+    <option name="cloneParentDir" value="$USER_HOME$/workspace/2k" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
