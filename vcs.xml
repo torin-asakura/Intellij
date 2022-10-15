@@ -174,9 +174,13 @@
           <option name="url" value="git@coderepo.corp.tander.ru:enterprise-architecture/projects/mk-online.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:atls-design/template.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/workspace/magnit" />
+    <option name="cloneParentDir" value="$USER_HOME$/workspace/atls" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
