@@ -178,6 +178,10 @@
           <option name="url" value="git@github.com:milovidov983/gitlab-telegram-bot.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:atls-arch/specs.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/workspace/atls" />
