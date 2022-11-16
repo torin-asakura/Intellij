@@ -175,24 +175,20 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:atls-design/template.git" />
+          <option name="url" value="git@github.com:milovidov983/gitlab-telegram-bot.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@gitlab.com:greensight/magnit/catalog/offers.git" />
+          <option name="url" value="git@github.com:atls-arch/specs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@gitlab.com:greensight/magnit/connectors/erp-connector.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@gitlab.com:greensight/magnit/connectors/wms-connector.git" />
+          <option name="url" value="git@github.com:atls-arch/registry.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/workspace/magnit" />
+    <option name="cloneParentDir" value="$USER_HOME$/workspace/atls" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
