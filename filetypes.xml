@@ -3,12 +3,12 @@
     <extensionMap>
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
-      <mapping pattern="commit-msg" type="AUTO_DETECTED" />
       <mapping pattern="prepare-commit-msg" type="AUTO_DETECTED" />
+      <mapping pattern="commit-msg" type="AUTO_DETECTED" />
       <mapping pattern=".env.*" type="Env File" />
       <mapping ext="env" type="Env File" />
-      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="clients" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
@@ -17,6 +17,7 @@
       <removed_mapping ext="cmd" approved="true" type="Batch" />
       <removed_mapping ext="cmd" approved="true" type="Cmd" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
+      <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
