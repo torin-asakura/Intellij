@@ -2,6 +2,7 @@
   <component name="UISettings">
     <option name="compactTreeIndents" value="true" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="NAVIGATION_BAR_LOCATION" value="TOP" />
     <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="18" />
     <option name="showTreeIndentGuides" value="true" />
