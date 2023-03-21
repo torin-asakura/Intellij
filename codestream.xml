@@ -1,0 +1,5 @@
+<application>
+  <component name="CodeStream">
+    <option name="serverUrl" value="https://eu-api.codestream.com" />
+  </component>
+</application>

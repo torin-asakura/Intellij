@@ -1,0 +1,15 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+      </component>
+      <component name="VcsManagerConfiguration">
+        <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+        <option name="CHECK_NEW_TODO" value="false" />
+        <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
