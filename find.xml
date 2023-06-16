@@ -20,5 +20,6 @@
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
     <mask>*.json</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
