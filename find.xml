@@ -19,8 +19,8 @@
     <mask>*.ts*</mask>
     <mask>*.tsx</mask>
     <mask>*.yml</mask>
-    <mask>*.json</mask>
     <mask>*.tf</mask>
     <mask>*.ts</mask>
+    <mask>*.json</mask>
   </component>
 </application>
