@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*toml</mask>
     <mask>*tsx</mask>
     <mask>*json</mask>
@@ -18,6 +19,8 @@
     <mask>*.js</mask>
     <mask>*.ts*</mask>
     <mask>*.tsx</mask>
+    <mask>*.yml</mask>
+    <mask>*.tf</mask>
     <mask>*.ts</mask>
     <mask>*.json</mask>
   </component>
