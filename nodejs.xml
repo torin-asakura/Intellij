@@ -7,7 +7,7 @@
       <version-cache last-modified="0" />
     </local-interpreter>
     <local-interpreter path="/usr/local/opt/node@18/bin/node">
-      <version-cache version="18.15.0" last-modified="1679576278666" />
+      <version-cache version="18.17.0" last-modified="1690661363621" />
     </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/node/17.3.0/bin/node">
       <version-cache last-modified="0" />
