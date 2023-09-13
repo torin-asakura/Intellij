@@ -11,6 +11,7 @@
       <w>drumin</w>
       <w>epilson</w>
       <w>fontkit</w>
+      <w>hashers</w>
       <w>ilink</w>
       <w>istio</w>
       <w>jwks</w>
@@ -25,7 +26,10 @@
       <w>pradata</w>
       <w>precheckout</w>
       <w>sberbank</w>
+      <w>selfservice</w>
       <w>shdvor</w>
+      <w>smtps</w>
+      <w>sslmode</w>
       <w>substep</w>
       <w>typecheck</w>
       <w>ukassa</w>
