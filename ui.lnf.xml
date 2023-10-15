@@ -5,6 +5,7 @@
     <option name="NAVIGATION_BAR_LOCATION" value="TOP" />
     <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="18" />
+    <option name="REMEMBER_SIZE_FOR_EACH_TOOL_WINDOW_NEW_UI" value="true" />
     <option name="showTreeIndentGuides" value="true" />
     <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
