@@ -1,0 +1,31 @@
+<application>
+  <component name="DiscordApplicationSettings">
+    <option name="show" value="true" />
+    <option name="idle" value="IGNORE" />
+    <option name="applicationDetailsCustom" value="" />
+    <option name="applicationStateCustom" value="" />
+    <option name="applicationIconLargeTextCustom" value="" />
+    <option name="applicationIconSmallTextCustom" value="" />
+    <option name="applicationTime" value="APPLICATION" />
+    <option name="projectDetailsCustom" value="" />
+    <option name="projectState" value="PROJECT_VCS_BRANCH" />
+    <option name="projectStateCustom" value="" />
+    <option name="projectIconLargeText" value="NONE" />
+    <option name="projectIconLargeTextCustom" value="" />
+    <option name="projectIconSmallText" value="PROJECT_NAME" />
+    <option name="projectIconSmallTextCustom" value="" />
+    <option name="projectTime" value="APPLICATION" />
+    <option name="fileDetails" value="FILE_NAME" />
+    <option name="fileDetailsCustom" value="" />
+    <option name="fileState" value="FILE_LANGUAGE" />
+    <option name="fileStateCustom" value="" />
+    <option name="fileIconLargeTextCustom" value="" />
+    <option name="fileIconSmallTextCustom" value="" />
+    <option name="fileTime" value="APPLICATION" />
+    <option name="filePrefixEnabled" value="true" />
+    <option name="fileHideVcsIgnored" value="false" />
+    <option name="applicationType" value="IDE_EDITION" />
+    <option name="theme" value="material" />
+    <option name="applicationLastUpdateNotification" value="1.12.0" />
+  </component>
+</application>
