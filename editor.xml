@@ -10,6 +10,7 @@
         <entry key="java.method.chains" value="true" />
         <entry key="js.chain.hints" value="true" />
         <entry key="js.type.hints" value="true" />
+        <entry key="qodana.yaml.inspection.descriptions" value="true" />
         <entry key="ts.chain.hints" value="true" />
         <entry key="ts.enum.hints" value="true" />
         <entry key="ts.type.hints" value="true" />
