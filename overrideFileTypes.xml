@@ -1,0 +1,6 @@
+<application>
+  <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/.kube/config_atls_stage" value="YAML" />
+    <file url="file://$USER_HOME$/.kube/config_deltacg_stage" value="YAML" />
+  </component>
+</application>
