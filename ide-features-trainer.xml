@@ -1,7 +1,4 @@
 <application>
-  <component name="LangManager">
-    <option name="languageName" value="JavaScript" />
-  </component>
   <component name="LessonStateBase">
     <option name="map">
       <map>
@@ -10,7 +7,7 @@
         <entry key="debugging code. part i" value="NOT_PASSED" />
         <entry key="debugging code. part ii" value="NOT_PASSED" />
         <entry key="fundamentals of testing in webstorm" value="NOT_PASSED" />
-        <entry key="java.onboarding" value="NOT_PASSED" />
+        <entry key="idea.onboarding" value="NOT_PASSED" />
         <entry key="refactorings in a nutshell" value="NOT_PASSED" />
         <entry key="secrets of efficient navigation" value="NOT_PASSED" />
         <entry key="the nuts and bolts of code completion" value="NOT_PASSED" />
