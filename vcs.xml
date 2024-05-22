@@ -1,6 +1,5 @@
 <application>
   <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="COLUMN_ID_ORDER">
       <list>
         <option value="Default.Root" />
@@ -15,12 +14,9 @@
         <entry key="Table.Default.Author.ColumnIdVisibility" value="true" />
       </map>
     </option>
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="DETECT_PATCH_ON_THE_FLY" value="true" />
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
-  </component>
-  <component name="VcsEditorTab.Settings">
-    <option name="openInNewWindow" value="true" />
   </component>
 </application>
