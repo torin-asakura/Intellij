@@ -22,6 +22,7 @@
       <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="qrc" approved="true" type="XML" />
+      <removed_mapping ext="rs" approved="true" type="Rust" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.*" approved="true" type=".env file" />
     </extensionMap>
