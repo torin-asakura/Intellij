@@ -7,6 +7,7 @@
         <option value="Default.Date" />
         <option value="Space.CommitStatus" />
         <option value="Default.Author" />
+        <option value="GitHub.CommitStatus" />
       </list>
     </option>
     <option name="COLUMN_ID_VISIBILITY">
