@@ -666,5 +666,29 @@
         </sourcePath>
       </roots>
     </jdk>
+    <jdk version="2">
+      <name value="Python 3.12" />
+      <type value="Python SDK" />
+      <version value="Python 3.12.4" />
+      <homePath value="/usr/local/bin/python3.12" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional SDK_UUID="1b1328df-3e4b-4620-ae1d-1c1b3e59d2cd">
+        <setting name="FLAVOR_ID" value="MacPythonSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+      </additional>
+    </jdk>
   </component>
 </application>
