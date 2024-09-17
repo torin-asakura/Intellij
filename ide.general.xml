@@ -11,6 +11,7 @@
     <entry key="editor.minimap.enabled" value="true" />
     <entry key="debugger.new.tool.window.layout" value="true" />
     <entry key="org.toml.json.schema" value="false" />
+    <entry key="i18n.locale" value="" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
