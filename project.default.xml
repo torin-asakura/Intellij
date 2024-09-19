@@ -1,14 +1,26 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "preferences.general"
+  }
+}]]></component>
+      <component name="TaskManager">
+        <task active="true" id="Default" summary="Default task">
+          <created>1725009039160</created>
+          <option name="number" value="Default" />
+          <option name="presentableId" value="Default" />
+          <updated>1725009039160</updated>
+        </task>
+        <servers />
       </component>
-      <component name="VcsManagerConfiguration">
-        <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-        <option name="CHECK_NEW_TODO" value="false" />
-        <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+      <component name="VcsDirectoryMappings" defaultProject="true" />
+      <component name="WindowStateProjectService">
+        <state x="312" y="114" key="SettingsEditor" timestamp="1725009181557">
+          <screen x="0" y="25" width="1606" height="1025" />
+        </state>
+        <state x="312" y="114" key="SettingsEditor/0.25.1606.1025" timestamp="1725009181557" />
       </component>
     </defaultProject>
   </component>
