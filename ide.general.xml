@@ -8,4 +8,13 @@
     <entry key="ide.experimental.ui" value="true" />
     <entry key="editor.minimap.enabled" value="true" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="AIAssistant" value="false" />
+        <entry key="CwmWireStatsWidgetFactory" value="false" />
+        <entry key="Memory" value="true" />
+      </map>
+    </option>
+  </component>
 </application>
