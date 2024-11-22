@@ -6,6 +6,9 @@
       <w>atlantislab</w>
       <w>atls</w>
       <w>buildpack</w>
+      <w>dbhost</w>
+      <w>dbpass</w>
+      <w>dbuser</w>
       <w>deltacg</w>
       <w>deltadoc</w>
       <w>domainkey</w>
@@ -32,8 +35,10 @@
       <w>smtps</w>
       <w>sslmode</w>
       <w>substep</w>
+      <w>traefik</w>
       <w>typecheck</w>
       <w>ukassa</w>
+      <w>автообновления</w>
       <w>бандл</w>
       <w>билд</w>
       <w>бэйджи</w>
