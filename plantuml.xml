@@ -1,5 +1,9 @@
 <application>
   <component name="PlantUmlSettingsNew">
+    <option name="PLANTUML_LIMIT_SIZE" value="" />
+    <option name="customPlantumlJarPath" value="/usr/local/bin/plantuml" />
+    <option name="includedPaths" value="" />
     <option name="lastBundledVersion" value="1.2024.7" />
+    <option name="useBundled" value="false" />
   </component>
 </application>
