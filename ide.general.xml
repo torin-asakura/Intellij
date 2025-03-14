@@ -1,6 +1,5 @@
 <application>
   <component name="GeneralSettings">
-    <option name="autoSyncFiles" value="false" />
     <option name="backgroundSyncFiles" value="false" />
     <option name="autoSaveFiles" value="false" />
     <option name="confirmExit" value="false" />
