@@ -1,262 +1,10 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="RVM: ruby-2.7.5" />
-      <type value="RUBY_SDK" />
-      <version value="ver.2.7.5p203 ( revision f69aeb8314) p203" />
-      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/bin/ruby" />
-      <roots>
-        <annotationsPath>
-          <root type="composite" />
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/site_ruby/2.7.0" type="simple" />
-            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/site_ruby/2.7.0/x86_64-darwin23" type="simple" />
-            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/site_ruby" type="simple" />
-            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/vendor_ruby/2.7.0" type="simple" />
-            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/vendor_ruby/2.7.0/x86_64-darwin23" type="simple" />
-            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/vendor_ruby" type="simple" />
-            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/2.7.0" type="simple" />
-            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/2.7.0/x86_64-darwin23" type="simple" />
-            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs27" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/site_ruby/2.7.0" type="simple" />
-            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/site_ruby/2.7.0/x86_64-darwin23" type="simple" />
-            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/site_ruby" type="simple" />
-            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/vendor_ruby/2.7.0" type="simple" />
-            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/vendor_ruby/2.7.0/x86_64-darwin23" type="simple" />
-            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/vendor_ruby" type="simple" />
-            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/2.7.0" type="simple" />
-            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/2.7.0/x86_64-darwin23" type="simple" />
-            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs27" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional NORMALIZED_VERSION_STRING="ver.2.7.5p203 ( revision f69aeb8314) p203" version="1" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/gems/ruby-2.7.5/bin">
-        <VERSION_MANAGER ID="rvm">
-          <distribution-id>ruby-2.7.5</distribution-id>
-          <version-manager-path>$USER_HOME$/.rvm/bin/rvm</version-manager-path>
-        </VERSION_MANAGER>
-        <RbConfig>
-          <item key="AR" value="libtool -static" />
-          <item key="ARFLAGS" value="-no_warning_for_no_symbols -o " />
-          <item key="AS" value="as" />
-          <item key="ASMEXT" value="S" />
-          <item key="BUILTIN_TRANSSRCS" value=" enc/trans/newline.c" />
-          <item key="CC" value="gcc" />
-          <item key="CCDLFLAGS" value="-fno-common" />
-          <item key="CC_VERSION" value="gcc --version" />
-          <item key="CC_VERSION_MESSAGE" value="Apple clang version 15.0.0 (clang-1500.3.9.4)&#10;Target: x86_64-apple-darwin23.4.0&#10;Thread model: posix&#10;InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin" />
-          <item key="CFLAGS" value="-g -O2 -fno-common -pipe" />
-          <item key="CHDIR" value="cd -P" />
-          <item key="CONFIGURE" value="configure" />
-          <item key="COUTFLAG" value="-o " />
-          <item key="CP" value="cp" />
-          <item key="CPP" value="gcc -E" />
-          <item key="CPPFLAGS" value=" -I/usr/local/opt/libyaml/include -I/usr/local/opt/libksba/include -I/usr/local/opt/readline/include -I/usr/local/opt/zlib/include -I/usr/local/opt/openssl@1.1/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT  " />
-          <item key="CPPOUTFILE" value="-o conftest.i" />
-          <item key="CROSS_COMPILING" value="no" />
-          <item key="CXX" value="g++" />
-          <item key="CXXFLAGS" value="-g -O2" />
-          <item key="DLDFLAGS" value="-Wl,-undefined,dynamic_lookup -L/usr/local/opt/libyaml/lib -L/usr/local/opt/libksba/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/zlib/lib -L/usr/local/opt/openssl@1.1/lib" />
-          <item key="DLDSHARED" value="gcc -dynamiclib" />
-          <item key="DLEXT" value="bundle" />
-          <item key="DLNOBJ" value="dln.o" />
-          <item key="DOT" value="dot" />
-          <item key="ECHO_C" value="\\c" />
-          <item key="EGREP" value="/usr/bin/grep -E" />
-          <item key="ENABLE_SHARED" value="yes" />
-          <item key="EXTOUT" value=".ext" />
-          <item key="GCC" value="yes" />
-          <item key="GIT" value="git" />
-          <item key="GNU_LD" value="no" />
-          <item key="GREP" value="/usr/bin/grep" />
-          <item key="HAVE_GIT" value="yes" />
-          <item key="INSTALL" value="/usr/local/opt/coreutils/bin/ginstall -c" />
-          <item key="INSTALL_DATA" value="/usr/local/opt/coreutils/bin/ginstall -c -m 644" />
-          <item key="INSTALL_PROGRAM" value="/usr/local/opt/coreutils/bin/ginstall -c" />
-          <item key="INSTALL_SCRIPT" value="/usr/local/opt/coreutils/bin/ginstall -c" />
-          <item key="INSTALL_STATIC_LIBRARY" value="no" />
-          <item key="LD" value="ld" />
-          <item key="LDFLAGS" value="-L. -fstack-protector-strong -L/usr/local/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/libksba/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/zlib/lib -L/usr/local/opt/openssl@1.1/lib" />
-          <item key="LDSHARED" value="gcc -dynamic -bundle" />
-          <item key="LDSHAREDXX" value="g++ -dynamic -bundle" />
-          <item key="LIBEXT" value="a" />
-          <item key="LIBPATHENV" value="DYLD_FALLBACK_LIBRARY_PATH" />
-          <item key="LIBPATHFLAG" value=" -L%s" />
-          <item key="LIBRUBY" value="libruby.2.7.dylib" />
-          <item key="LIBRUBYARG" value="-lruby.2.7" />
-          <item key="LIBRUBYARG_SHARED" value="-lruby.2.7" />
-          <item key="LIBRUBYARG_STATIC" value="-lruby.2.7-static -framework Security -framework Foundation -lpthread -lgmp -ldl -lobjc" />
-          <item key="LIBRUBY_A" value="libruby.2.7-static.a" />
-          <item key="LIBRUBY_ALIASES" value="libruby.dylib" />
-          <item key="LIBRUBY_RELATIVE" value="no" />
-          <item key="LIBRUBY_SO" value="libruby.2.7.dylib" />
-          <item key="LIBRUBY_SONAME" value="libruby.2.7.dylib" />
-          <item key="LINK_SO" value="&#10;dsymutil $@; { test -z '$(RUBY_CODESIGN)' || codesign -s '$(RUBY_CODESIGN)' -f $@; }" />
-          <item key="LN_S" value="ln -s" />
-          <item key="MAINLIBS" value="-lpthread -lgmp -ldl -lobjc" />
-          <item key="MAJOR" value="2" />
-          <item key="MAKEDIRS" value="/usr/local/opt/coreutils/bin/gmkdir -p" />
-          <item key="MAKEFILES" value="Makefile GNUmakefile" />
-          <item key="MANTYPE" value="doc" />
-          <item key="MATHN" value="yes" />
-          <item key="MINOR" value="7" />
-          <item key="MJIT_CC" value="/usr/bin/gcc" />
-          <item key="MJIT_SUPPORT" value="yes" />
-          <item key="MKDIR_P" value="/usr/local/opt/coreutils/bin/gmkdir -p" />
-          <item key="NM" value="nm" />
-          <item key="NULLCMD" value=":" />
-          <item key="OBJCOPY" value=":" />
-          <item key="OBJDUMP" value="objdump" />
-          <item key="OBJEXT" value="o" />
-          <item key="OUTFLAG" value="-o " />
-          <item key="PACKAGE" value="ruby" />
-          <item key="PATCHLEVEL" value="203" />
-          <item key="PATH_SEPARATOR" value=":" />
-          <item key="PKG_CONFIG" value="pkg-config" />
-          <item key="POSTLINK" value="dsymutil $@; { test -z '$(RUBY_CODESIGN)' || codesign -s '$(RUBY_CODESIGN)' -f $@; }" />
-          <item key="PRELOADENV" value="DYLD_INSERT_LIBRARIES" />
-          <item key="PREP" value="miniruby exe/$(PROGRAM)" />
-          <item key="RANLIB" value=":" />
-          <item key="RI_BASE_NAME" value="ri" />
-          <item key="RM" value="rm -f" />
-          <item key="RMALL" value="rm -fr" />
-          <item key="RMDIR" value="rmdir" />
-          <item key="RMDIRS" value="rmdir -p" />
-          <item key="RUBYW_BASE_NAME" value="rubyw" />
-          <item key="RUBY_API_VERSION" value="2.7" />
-          <item key="RUBY_BASE_NAME" value="ruby" />
-          <item key="RUBY_EXEC_PREFIX" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5" />
-          <item key="RUBY_INSTALL_NAME" value="ruby" />
-          <item key="RUBY_LIB_VERSION_STYLE" value="3&#9;/* full */" />
-          <item key="RUBY_PROGRAM_VERSION" value="2.7.5" />
-          <item key="RUBY_SO_NAME" value="ruby.2.7" />
-          <item key="RUBY_VERSION_NAME" value="ruby-2.7.0" />
-          <item key="SHELL" value="/bin/sh" />
-          <item key="SOEXT" value="dylib" />
-          <item key="SOLIBS" value="-lpthread -lgmp -ldl -lobjc" />
-          <item key="STRIP" value="strip -A -n" />
-          <item key="SYMBOL_PREFIX" value="_" />
-          <item key="TEENY" value="5" />
-          <item key="TEST_RUNNABLE" value="yes" />
-          <item key="THREAD_MODEL" value="pthread" />
-          <item key="UNICODE_EMOJI_VERSION" value="12.1" />
-          <item key="UNICODE_VERSION" value="12.1.0" />
-          <item key="WERRORFLAG" value="-Werror" />
-          <item key="arch" value="x86_64-darwin23" />
-          <item key="archdir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/2.7.0/x86_64-darwin23" />
-          <item key="archincludedir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/include/x86_64-darwin23" />
-          <item key="archlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/x86_64-darwin23" />
-          <item key="bindir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/bin" />
-          <item key="build" value="x86_64-apple-darwin23.4.0" />
-          <item key="build_cpu" value="x86_64" />
-          <item key="build_os" value="darwin23.4.0" />
-          <item key="build_vendor" value="apple" />
-          <item key="cflags" value="-O3 -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens" />
-          <item key="codesign" value="codesign" />
-          <item key="configure_args" value=" '--prefix=/Users/torinasakura/.rvm/rubies/ruby-2.7.5' '' '--with-opt-dir=/usr/local/opt/libyaml:/usr/local/opt/libksba:/usr/local/opt/readline:/usr/local/opt/zlib:/usr/local/opt/openssl@1.1' '--disable-install-doc' '--enable-shared' 'build_alias=' 'host_alias=' 'target_alias=' 'CC=gcc'" />
-          <item key="datadir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/share" />
-          <item key="datarootdir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/share" />
-          <item key="debugflags" value="-ggdb3" />
-          <item key="docdir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/share/doc/ruby" />
-          <item key="dsymutil" value="dsymutil" />
-          <item key="dvidir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/share/doc/ruby" />
-          <item key="exec" value="exec" />
-          <item key="exec_prefix" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5" />
-          <item key="host" value="x86_64-apple-darwin23" />
-          <item key="host_cpu" value="x86_64" />
-          <item key="host_os" value="darwin23" />
-          <item key="host_vendor" value="apple" />
-          <item key="htmldir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/share/doc/ruby" />
-          <item key="includedir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/include" />
-          <item key="infodir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/share/info" />
-          <item key="libdir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib" />
-          <item key="libdirname" value="libdir" />
-          <item key="libexecdir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/libexec" />
-          <item key="localedir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/share/locale" />
-          <item key="localstatedir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/var" />
-          <item key="mandir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/share/man" />
-          <item key="oldincludedir" value="/usr/include" />
-          <item key="optflags" value="-O3" />
-          <item key="pdfdir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/share/doc/ruby" />
-          <item key="prefix" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5" />
-          <item key="psdir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/share/doc/ruby" />
-          <item key="ridir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/share/ri" />
-          <item key="ruby_install_name" value="ruby" />
-          <item key="ruby_pc" value="ruby-2.7.pc" />
-          <item key="ruby_version" value="2.7.0" />
-          <item key="rubyarchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/2.7.0/x86_64-darwin23" />
-          <item key="rubyarchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/include/ruby-2.7.0/x86_64-darwin23" />
-          <item key="rubyarchprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/x86_64-darwin23" />
-          <item key="rubyhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/include/ruby-2.7.0" />
-          <item key="rubylibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/2.7.0" />
-          <item key="rubylibprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby" />
-          <item key="rubysitearchprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/x86_64-darwin23" />
-          <item key="runstatedir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/var/run" />
-          <item key="sbindir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/sbin" />
-          <item key="setup" value="Setup" />
-          <item key="sharedstatedir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/com" />
-          <item key="sitearch" value="x86_64-darwin23" />
-          <item key="sitearchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/site_ruby/2.7.0/x86_64-darwin23" />
-          <item key="sitearchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/include/ruby-2.7.0/site_ruby/x86_64-darwin23" />
-          <item key="sitearchincludedir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/include/x86_64-darwin23" />
-          <item key="sitearchlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/x86_64-darwin23" />
-          <item key="sitedir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/site_ruby" />
-          <item key="sitehdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/include/ruby-2.7.0/site_ruby" />
-          <item key="sitelibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/site_ruby/2.7.0" />
-          <item key="strict_warnflags" value="-std=gnu99" />
-          <item key="sysconfdir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/etc" />
-          <item key="target" value="x86_64-apple-darwin23" />
-          <item key="target_cpu" value="x86_64" />
-          <item key="target_os" value="darwin23" />
-          <item key="target_vendor" value="apple" />
-          <item key="topdir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/2.7.0/x86_64-darwin23" />
-          <item key="vendorarchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/vendor_ruby/2.7.0/x86_64-darwin23" />
-          <item key="vendorarchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/include/ruby-2.7.0/vendor_ruby/x86_64-darwin23" />
-          <item key="vendordir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/vendor_ruby" />
-          <item key="vendorhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/include/ruby-2.7.0/vendor_ruby" />
-          <item key="vendorlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/vendor_ruby/2.7.0" />
-          <item key="warnflags" value="-Wall -Wextra -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens" />
-        </RbConfig>
-      </additional>
-    </jdk>
-    <jdk version="2">
-      <name value="Python 3.13" />
-      <type value="Python SDK" />
-      <version value="Python 3.13.1" />
-      <homePath value="/usr/local/bin/python3.13" />
-      <roots>
-        <annotationsPath>
-          <root type="composite" />
-        </annotationsPath>
-        <classPath>
-          <root type="composite" />
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional SDK_UUID="3c107b54-c933-4c77-ae37-e1a16ffa73cb">
-        <setting name="FLAVOR_ID" value="MacPythonSdkFlavor" />
-        <setting name="FLAVOR_DATA" value="{}" />
-      </additional>
-    </jdk>
-    <jdk version="2">
-      <name value="17" />
+      <name value="corretto-22" />
       <type value="JavaSDK" />
-      <version value="java version &quot;17.0.12&quot;" />
-      <homePath value="$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr" />
+      <version value="Amazon Corretto 22.0.2" />
+      <homePath value="$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home" />
       <roots>
         <annotationsPath>
           <root type="composite">
@@ -265,79 +13,75 @@
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/gluegen.rt" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/java.base" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/java.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/java.datatransfer" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/java.desktop" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/java.instrument" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/java.logging" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/java.management" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/java.management.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/java.naming" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/java.net.http" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/java.prefs" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/java.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/java.scripting" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/java.se" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/java.security.jgss" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/java.security.sasl" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/java.smartcardio" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/java.sql" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/java.sql.rowset" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/java.transaction.xa" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/java.xml" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/java.xml.crypto" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jcef" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.accessibility" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.attach" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.charsets" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.crypto.cryptoki" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.crypto.ec" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.dynalink" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.editpad" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.hotspot.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.httpserver" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.incubator.foreign" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.incubator.vector" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.internal.ed" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.internal.jvmstat" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.internal.le" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.internal.opt" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.internal.vm.ci" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.internal.vm.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.internal.vm.compiler.management" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.jartool" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.javadoc" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.jcmd" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.jconsole" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.jdeps" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.jdi" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.jdwp.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.jfr" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.jlink" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.jpackage" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.jshell" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.jsobject" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.jstatd" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.localedata" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.management" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.management.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.management.jfr" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.naming.dns" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.naming.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.net" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.nio.mapmode" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.random" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.sctp" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.security.auth" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.security.jgss" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.unsupported" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.unsupported.desktop" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.xml.dom" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jdk.zipfs" type="simple" />
-            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr!/jogl.all" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/java.base" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/java.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/java.datatransfer" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/java.desktop" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/java.instrument" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/java.logging" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/java.management" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/java.management.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/java.naming" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/java.net.http" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/java.prefs" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/java.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/java.scripting" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/java.se" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/java.security.jgss" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/java.security.sasl" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/java.smartcardio" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/java.sql" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/java.sql.rowset" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/java.transaction.xa" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/java.xml" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/java.xml.crypto" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.accessibility" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.attach" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.charsets" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.dynalink" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.editpad" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.graal.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.graal.compiler.management" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.httpserver" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.incubator.vector" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.internal.ed" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.internal.le" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.internal.opt" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.jartool" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.javadoc" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.jcmd" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.jconsole" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.jdeps" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.jdi" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.jfr" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.jlink" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.jpackage" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.jshell" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.jsobject" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.jstatd" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.localedata" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.management" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.management.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.management.jfr" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.naming.dns" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.net" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.nio.mapmode" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.random" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.sctp" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.security.auth" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.security.jgss" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.unsupported" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.xml.dom" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home!/jdk.zipfs" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -345,76 +89,237 @@
         </javadocPath>
         <sourcePath>
           <root type="composite">
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/java.se" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.jdi" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.jfr" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.net" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/java.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/java.sql" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/java.xml" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.jcmd" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.sctp" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/java.base" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.jdeps" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.jlink" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.zipfs" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/java.prefs" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.attach" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.jshell" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.jstatd" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.random" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/java.naming" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.editpad" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.jartool" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.javadoc" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.xml.dom" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/java.desktop" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/java.logging" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.charsets" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.dynalink" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.jconsole" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.jpackage" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.jsobject" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/java.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/java.net.http" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.crypto.ec" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/java.scripting" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.httpserver" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.jdwp.agent" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.localedata" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.management" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.naming.dns" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.naming.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/java.instrument" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/java.management" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/java.sql.rowset" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/java.xml.crypto" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.internal.ed" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.internal.le" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.nio.mapmode" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.unsupported" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/java.smartcardio" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.internal.opt" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/java.datatransfer" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.accessibility" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.hotspot.agent" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.security.auth" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.security.jgss" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/java.security.jgss" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/java.security.sasl" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.management.jfr" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/java.management.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/java.transaction.xa" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.incubator.vector" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.management.agent" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.incubator.foreign" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.12-jbr/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/java.se" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.jdi" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.net" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/java.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/java.sql" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/java.xml" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.jcmd" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.sctp" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/java.base" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.jdeps" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.jlink" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.zipfs" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/java.prefs" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.attach" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.jshell" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.jstatd" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.random" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/java.naming" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.editpad" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.jartool" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.javadoc" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.xml.dom" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/java.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/java.logging" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.charsets" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.dynalink" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.jconsole" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.jpackage" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.jsobject" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/java.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/java.net.http" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.crypto.ec" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/java.scripting" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.httpserver" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.jdwp.agent" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.localedata" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.management" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.naming.dns" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.naming.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/java.instrument" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/java.management" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/java.sql.rowset" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/java.xml.crypto" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.internal.ed" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.internal.le" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.nio.mapmode" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.unsupported" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/java.smartcardio" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.internal.opt" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/java.datatransfer" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.accessibility" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.hotspot.agent" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.security.auth" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/java.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/java.security.sasl" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.graal.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.management.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/java.management.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/java.transaction.xa" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.incubator.vector" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.management.agent" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-22.0.2/Contents/Home/lib/src.zip!/jdk.graal.compiler.management" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+    </jdk>
+    <jdk version="2">
+      <name value="azul-15" />
+      <type value="JavaSDK" />
+      <version value="Azul Zulu 15.0.10" />
+      <homePath value="$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/java.base" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/java.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/java.datatransfer" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/java.desktop" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/java.instrument" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/java.logging" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/java.management" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/java.management.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/java.naming" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/java.net.http" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/java.prefs" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/java.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/java.scripting" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/java.se" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/java.security.jgss" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/java.security.sasl" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/java.smartcardio" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/java.sql" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/java.sql.rowset" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/java.transaction.xa" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/java.xml" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/java.xml.crypto" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.accessibility" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.aot" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.attach" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.charsets" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.dynalink" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.editpad" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.httpserver" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.incubator.foreign" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.incubator.jpackage" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.internal.ed" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.internal.le" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.internal.opt" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.jartool" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.javadoc" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.jcmd" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.jconsole" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.jdeps" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.jdi" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.jfr" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.jlink" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.jshell" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.jsobject" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.jstatd" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.localedata" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.management" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.management.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.management.jfr" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.naming.dns" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.net" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.nio.mapmode" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.sctp" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.security.auth" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.security.jgss" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.unsupported" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.xml.dom" type="simple" />
+            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/java.se" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.aot" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.jdi" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.net" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/java.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/java.sql" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/java.xml" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.jcmd" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.sctp" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/java.base" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.jdeps" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.jlink" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.zipfs" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/java.prefs" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.attach" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.jshell" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.jstatd" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/java.naming" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.editpad" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.jartool" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.javadoc" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.xml.dom" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/java.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/java.logging" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.charsets" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.dynalink" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.jconsole" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.jsobject" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/java.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/java.net.http" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.crypto.ec" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/java.scripting" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.httpserver" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.jdwp.agent" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.localedata" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.management" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.naming.dns" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.naming.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/java.instrument" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/java.management" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/java.sql.rowset" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/java.xml.crypto" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.internal.ed" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.internal.le" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.nio.mapmode" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.unsupported" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/java.smartcardio" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.internal.opt" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/java.datatransfer" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.accessibility" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.hotspot.agent" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.security.auth" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/java.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/java.security.sasl" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.management.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/java.management.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/java.transaction.xa" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.management.agent" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.incubator.foreign" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.incubator.jpackage" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-15.0.10/Contents/Home/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
           </root>
         </sourcePath>
       </roots>
@@ -437,411 +342,6 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-    </jdk>
-    <jdk version="2">
-      <name value="openjdk-22" />
-      <type value="JavaSDK" />
-      <version value="java version &quot;22.0.1&quot;" />
-      <homePath value="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.base" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.datatransfer" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.desktop" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.instrument" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.logging" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.management" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.management.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.naming" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.net.http" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.prefs" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.scripting" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.se" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.security.jgss" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.security.sasl" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.smartcardio" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.sql" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.sql.rowset" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.transaction.xa" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.xml" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.xml.crypto" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.accessibility" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.attach" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.charsets" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.crypto.cryptoki" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.crypto.ec" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.dynalink" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.editpad" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.graal.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.graal.compiler.management" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.hotspot.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.httpserver" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.incubator.vector" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.internal.ed" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.internal.jvmstat" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.internal.le" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.internal.opt" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.internal.vm.ci" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.jartool" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.javadoc" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.jcmd" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.jconsole" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.jdeps" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.jdi" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.jdwp.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.jfr" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.jlink" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.jpackage" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.jshell" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.jsobject" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.jstatd" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.localedata" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.management" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.management.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.management.jfr" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.naming.dns" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.naming.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.net" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.nio.mapmode" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.random" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.sctp" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.security.auth" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.security.jgss" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.unsupported" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.unsupported.desktop" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.xml.dom" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.zipfs" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.se" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.jdi" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.jfr" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.net" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.sql" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.xml" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.jcmd" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.sctp" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.base" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.jdeps" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.jlink" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.zipfs" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.prefs" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.attach" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.jshell" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.jstatd" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.random" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.naming" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.editpad" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.jartool" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.javadoc" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.xml.dom" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.desktop" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.logging" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.charsets" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.dynalink" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.jconsole" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.jpackage" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.jsobject" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.net.http" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.crypto.ec" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.scripting" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.httpserver" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.jdwp.agent" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.localedata" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.management" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.naming.dns" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.naming.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.instrument" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.management" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.sql.rowset" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.xml.crypto" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.internal.ed" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.internal.le" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.nio.mapmode" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.unsupported" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.smartcardio" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.internal.opt" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.datatransfer" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.accessibility" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.hotspot.agent" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.security.auth" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.security.jgss" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.security.jgss" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.security.sasl" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.graal.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.management.jfr" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.management.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.transaction.xa" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.incubator.vector" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.management.agent" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.graal.compiler.management" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-    </jdk>
-    <jdk version="2">
-      <name value="22" />
-      <type value="JavaSDK" />
-      <version value="java version &quot;22.0.1&quot;" />
-      <homePath value="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.base" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.datatransfer" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.desktop" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.instrument" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.logging" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.management" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.management.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.naming" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.net.http" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.prefs" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.scripting" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.se" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.security.jgss" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.security.sasl" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.smartcardio" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.sql" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.sql.rowset" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.transaction.xa" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.xml" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.xml.crypto" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.accessibility" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.attach" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.charsets" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.crypto.cryptoki" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.crypto.ec" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.dynalink" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.editpad" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.graal.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.graal.compiler.management" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.hotspot.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.httpserver" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.incubator.vector" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.internal.ed" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.internal.jvmstat" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.internal.le" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.internal.opt" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.internal.vm.ci" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.jartool" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.javadoc" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.jcmd" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.jconsole" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.jdeps" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.jdi" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.jdwp.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.jfr" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.jlink" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.jpackage" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.jshell" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.jsobject" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.jstatd" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.localedata" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.management" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.management.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.management.jfr" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.naming.dns" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.naming.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.net" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.nio.mapmode" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.random" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.sctp" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.security.auth" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.security.jgss" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.unsupported" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.unsupported.desktop" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.xml.dom" type="simple" />
-            <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.zipfs" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.se" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.jdi" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.jfr" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.net" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.sql" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.xml" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.jcmd" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.sctp" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.base" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.jdeps" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.jlink" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.zipfs" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.prefs" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.attach" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.jshell" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.jstatd" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.random" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.naming" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.editpad" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.jartool" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.javadoc" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.xml.dom" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.desktop" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.logging" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.charsets" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.dynalink" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.jconsole" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.jpackage" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.jsobject" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.net.http" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.crypto.ec" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.scripting" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.httpserver" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.jdwp.agent" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.localedata" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.management" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.naming.dns" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.naming.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.instrument" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.management" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.sql.rowset" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.xml.crypto" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.internal.ed" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.internal.le" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.nio.mapmode" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.unsupported" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.smartcardio" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.internal.opt" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.datatransfer" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.accessibility" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.hotspot.agent" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.security.auth" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.security.jgss" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.security.jgss" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.security.sasl" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.graal.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.management.jfr" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.management.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.transaction.xa" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.incubator.vector" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.management.agent" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
-            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/jdk.graal.compiler.management" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 30 Platform" />
-      <type value="Android SDK" />
-      <homePath value="$USER_HOME$/Library/Android/sdk" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-30/data/annotations.zip!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-30/android.jar!/" type="simple" />
-            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-30/data/res" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root url="http://developer.android.com/reference/" type="simple" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional sdk="android-30" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 33, extension level 3 Platform" />
-      <type value="Android SDK" />
-      <homePath value="$USER_HOME$/Library/Android/sdk" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-33/data/annotations.zip!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-33/android.jar!/" type="simple" />
-            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-33/data/res" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root url="http://developer.android.com/reference/" type="simple" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional sdk="android-33" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 34, extension level 7 Platform" />
-      <type value="Android SDK" />
-      <homePath value="$USER_HOME$/Library/Android/sdk" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-34/data/annotations.zip!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-34/android.jar!/" type="simple" />
-            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-34/data/res" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-34" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional sdk="android-34" />
     </jdk>
   </component>
 </application>
