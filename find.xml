@@ -23,5 +23,6 @@
     <mask>*.tf</mask>
     <mask>*.yml</mask>
     <mask>*.py</mask>
+    <mask>*.proto</mask>
   </component>
 </application>
