@@ -6,11 +6,6 @@
       <version value="java version &quot;22.0.1&quot;" />
       <homePath value="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home" />
       <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.base" type="simple" />
@@ -84,9 +79,6 @@
             <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.zipfs" type="simple" />
           </root>
         </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.se" type="simple" />
@@ -169,9 +161,6 @@
       <version value="ver.2.7.5p203 ( revision f69aeb8314) p203" />
       <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.7.5/bin/ruby" />
       <roots>
-        <annotationsPath>
-          <root type="composite" />
-        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/site_ruby/2.7.0" type="simple" />
@@ -185,9 +174,6 @@
             <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs27" type="simple" />
           </root>
         </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.5/lib/ruby/site_ruby/2.7.0" type="simple" />
@@ -397,11 +383,6 @@
       <version value="java version &quot;22.0.1&quot;" />
       <homePath value="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home" />
       <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/java.base" type="simple" />
@@ -475,9 +456,6 @@
             <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home!/jdk.zipfs" type="simple" />
           </root>
         </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib/src.zip!/java.se" type="simple" />
@@ -559,11 +537,6 @@
       <version value="java version &quot;17.0.14&quot;" />
       <homePath value="$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-17.0.14/Contents/Home" />
       <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-17.0.14/Contents/Home!/java.base" type="simple" />
@@ -638,9 +611,6 @@
             <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-17.0.14/Contents/Home!/jdk.zipfs" type="simple" />
           </root>
         </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-17.0.14/Contents/Home/lib/src.zip!/java.se" type="simple" />
@@ -722,15 +692,9 @@
       <type value="KotlinSDK" />
       <homePath value="/" />
       <roots>
-        <annotationsPath>
-          <root type="composite" />
-        </annotationsPath>
         <classPath>
           <root type="composite" />
         </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
