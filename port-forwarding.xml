@@ -1,0 +1,5 @@
+<application>
+  <component name="KubernetesPodPortForwardingService"><![CDATA[{
+  "contextToForwardings": []
+}]]></component>
+</application>
