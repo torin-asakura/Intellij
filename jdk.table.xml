@@ -159,6 +159,7 @@
           </root>
         </sourcePath>
       </roots>
+      <additional />
     </jdk>
     <jdk version="2">
       <name value="RVM: ruby-2.7.5" />
