@@ -3,6 +3,7 @@
     <option name="pluginIds">
       <list>
         <option value="com.jetbrains.lang.ejs" />
+        <option value="com.intellij.lang.jsgraphql" />
       </list>
     </option>
   </component>
