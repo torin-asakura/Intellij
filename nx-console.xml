@@ -1,0 +1,6 @@
+<application>
+  <component name="NxConsoleSettingsProvider">
+    <option name="enableTelemetry" value="true" />
+    <option name="promptedForTelemetry" value="true" />
+  </component>
+</application>
