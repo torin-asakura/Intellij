@@ -764,7 +764,7 @@
     <jdk version="2">
       <name value="Python 3.13" />
       <type value="Python SDK" />
-      <version value="Python 3.13.1" />
+      <version value="Python 3.13.5" />
       <homePath value="/usr/local/bin/python3.13" />
       <roots>
         <annotationsPath>
@@ -772,8 +772,8 @@
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="file:///usr/local/Cellar/python@3.13/3.13.1/Frameworks/Python.framework/Versions/3.13/lib/python3.13" type="simple" />
-            <root url="file:///usr/local/Cellar/python@3.13/3.13.1/Frameworks/Python.framework/Versions/3.13/lib/python3.13/lib-dynload" type="simple" />
+            <root url="file:///usr/local/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13" type="simple" />
+            <root url="file:///usr/local/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13/lib-dynload" type="simple" />
             <root url="file:///usr/local/lib/python3.13/site-packages" type="simple" />
             <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2025.1/python_stubs/1456468623" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" type="simple" />
