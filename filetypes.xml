@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="19">
     <extensionMap>
+      <removed_mapping ext="rs" type="Android RenderScript" />
       <mapping ext="plantuml" type="PlantUML file" />
+      <mapping ext="rs" type="Rust" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
