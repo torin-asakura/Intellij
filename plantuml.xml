@@ -4,5 +4,10 @@
     <option name="customPlantumlJarPath" value="/usr/local/bin/plantuml" />
     <option name="includedPaths" value="" />
     <option name="lastBundledVersion" value="1.2025.4" />
+    <option name="previewSettings">
+      <PreviewSettings>
+        <option name="splitEditorLayout" value="Show editor only" />
+      </PreviewSettings>
+    </option>
   </component>
 </application>
