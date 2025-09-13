@@ -775,8 +775,7 @@
             <root url="file:///usr/local/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13" type="simple" />
             <root url="file:///usr/local/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13/lib-dynload" type="simple" />
             <root url="file:///usr/local/lib/python3.13/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2025.1/python_stubs/1456468623" type="simple" />
-            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2025.2/python_stubs/1456468623" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" type="simple" />
           </root>
         </classPath>
