@@ -550,121 +550,6 @@
       </roots>
     </jdk>
     <jdk version="2">
-      <name value="Android API 30 Platform" />
-      <type value="Android SDK" />
-      <homePath value="$USER_HOME$/Library/Android/sdk" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-30/data/annotations.zip!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-30/android.jar!/" type="simple" />
-            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-30/data/res" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root url="http://developer.android.com/reference/" type="simple" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional sdk="android-30" />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 3.13 (quant-challenge)" />
-      <type value="Python SDK" />
-      <version value="Python 3.13.1" />
-      <homePath value="$USER_HOME$/workspace/oracul/quant-challenge/python/.venv/bin/python" />
-      <roots>
-        <annotationsPath>
-          <root type="composite" />
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="file:///usr/local/Cellar/python@3.13/3.13.1/Frameworks/Python.framework/Versions/3.13/lib/python3.13" type="simple" />
-            <root url="file:///usr/local/Cellar/python@3.13/3.13.1/Frameworks/Python.framework/Versions/3.13/lib/python3.13/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/workspace/oracul/quant-challenge/python/.venv/lib/python3.13/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2025.1/python_stubs/800955679" type="simple" />
-            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/workspace/oracul/quant-challenge" SDK_UUID="0d272fad-0ba2-4cf1-808e-e7b7e7365b91">
-        <setting name="FLAVOR_ID" value="UnknownFlavor" />
-        <setting name="FLAVOR_DATA" value="{}" />
-      </additional>
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 33, extension level 3 Platform" />
-      <type value="Android SDK" />
-      <homePath value="$USER_HOME$/Library/Android/sdk" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-33/data/annotations.zip!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-33/android.jar!/" type="simple" />
-            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-33/data/res" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root url="http://developer.android.com/reference/" type="simple" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional sdk="android-33" />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 3.13" />
-      <type value="Python SDK" />
-      <version value="Python 3.13.5" />
-      <homePath value="/usr/local/bin/python3.13" />
-      <roots>
-        <annotationsPath>
-          <root type="composite" />
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="file:///usr/local/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13" type="simple" />
-            <root url="file:///usr/local/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13/lib-dynload" type="simple" />
-            <root url="file:///usr/local/lib/python3.13/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2025.2/python_stubs/1456468623" type="simple" />
-            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional SDK_UUID="9fcedce8-fb64-4aa3-bef5-4966c4b702b8">
-        <setting name="FLAVOR_ID" value="MacPythonSdkFlavor" />
-        <setting name="FLAVOR_DATA" value="{}" />
-      </additional>
-    </jdk>
-    <jdk version="2">
       <name value="17" />
       <type value="JavaSDK" />
       <version value="java version &quot;17.0.14&quot;" />
@@ -844,6 +729,121 @@
           <root type="composite" />
         </sourcePath>
       </roots>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.13 (quant-challenge)" />
+      <type value="Python SDK" />
+      <version value="Python 3.13.1" />
+      <homePath value="$USER_HOME$/workspace/oracul/quant-challenge/python/.venv/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/Cellar/python@3.13/3.13.1/Frameworks/Python.framework/Versions/3.13/lib/python3.13" type="simple" />
+            <root url="file:///usr/local/Cellar/python@3.13/3.13.1/Frameworks/Python.framework/Versions/3.13/lib/python3.13/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/workspace/oracul/quant-challenge/python/.venv/lib/python3.13/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2025.1/python_stubs/800955679" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/workspace/oracul/quant-challenge" SDK_UUID="0d272fad-0ba2-4cf1-808e-e7b7e7365b91">
+        <setting name="FLAVOR_ID" value="UnknownFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.13" />
+      <type value="Python SDK" />
+      <version value="Python 3.13.5" />
+      <homePath value="/usr/local/bin/python3.13" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13" type="simple" />
+            <root url="file:///usr/local/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13/lib-dynload" type="simple" />
+            <root url="file:///usr/local/lib/python3.13/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2025.2/python_stubs/1456468623" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional SDK_UUID="9fcedce8-fb64-4aa3-bef5-4966c4b702b8">
+        <setting name="FLAVOR_ID" value="MacPythonSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 30 Platform" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-30/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-30/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-30/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="http://developer.android.com/reference/" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional sdk="android-30" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 33, extension level 3 Platform" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-33/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-33/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-33/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="http://developer.android.com/reference/" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional sdk="android-33" />
     </jdk>
     <jdk version="2">
       <name value="Android API 34, extension level 7 Platform" />
