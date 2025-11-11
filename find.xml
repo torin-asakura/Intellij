@@ -3,7 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.json" />
+    <option name="FILE_MASK" value="*.tf" />
     <mask>*toml</mask>
     <mask>*tsx</mask>
     <mask>*json</mask>
@@ -20,11 +20,11 @@
     <mask>*.ts*</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
-    <mask>*.tf</mask>
     <mask>*.yml</mask>
     <mask>*.py</mask>
     <mask>*.proto</mask>
     <mask>*.bak</mask>
     <mask>*.json</mask>
+    <mask>*.tf</mask>
   </component>
 </application>
