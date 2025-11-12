@@ -3,11 +3,9 @@
     <extensionMap>
       <mapping ext="plantuml" type="PlantUML file" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="conf" approved="true" type="nginx" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
     </extensionMap>
   </component>
 </application>
