@@ -2,8 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.tf" />
     <mask>*toml</mask>
     <mask>*tsx</mask>
     <mask>*json</mask>
