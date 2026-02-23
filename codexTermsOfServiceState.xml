@@ -1,0 +1,9 @@
+<application>
+  <component name="CodexTermsOfServiceState">
+    <option name="acceptedOpenAITermsOfServiceVersions">
+      <map>
+        <entry key="2024-12-11" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
