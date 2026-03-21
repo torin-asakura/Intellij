@@ -1,5 +1,22 @@
 <application>
   <component name="libraryTable">
+    <library name="PTP Python 3.12 interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.local/share/uv/python/cpython-3.12.12-macos-aarch64-none/lib/python3.12" />
+        <root url="file://$USER_HOME$/.local/share/uv/python/cpython-3.12-macos-aarch64-none/lib/python3.12/lib-dynload" />
+        <root url="file://$USER_HOME$/IdeaProjects/ptp/client/backend/.venv/lib/python3.12/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2025.3/python_stubs/-1320411051" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.local/share/uv/python/cpython-3.12.12-macos-aarch64-none/lib/python3.12" />
+        <root url="file://$USER_HOME$/.local/share/uv/python/cpython-3.12-macos-aarch64-none/lib/python3.12/lib-dynload" />
+        <root url="file://$USER_HOME$/IdeaProjects/ptp/client/backend/.venv/lib/python3.12/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2025.3/python_stubs/-1320411051" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
+      </SOURCES>
+    </library>
     <library name="Python 3.13 (quant-challenge) interpreter library">
       <CLASSES>
         <root url="file:///usr/local/Cellar/python@3.13/3.13.1/Frameworks/Python.framework/Versions/3.13/lib/python3.13" />
