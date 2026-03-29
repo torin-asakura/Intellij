@@ -1204,7 +1204,7 @@
       <name value="PTP Python 3.12" />
       <type value="Python SDK" />
       <version value="Python 3.12.12" />
-      <homePath value="$USER_HOME$/IdeaProjects/ptp/client/backend/.venv/bin/python3.12" />
+      <homePath value="$USER_HOME$/workspace/ptp/client/backend/.venv/bin/python3.12" />
       <roots>
         <annotationsPath>
           <root type="composite" />
@@ -1213,7 +1213,7 @@
           <root type="composite">
             <root url="file://$USER_HOME$/.local/share/uv/python/cpython-3.12.12-macos-aarch64-none/lib/python3.12" type="simple" />
             <root url="file://$USER_HOME$/.local/share/uv/python/cpython-3.12-macos-aarch64-none/lib/python3.12/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/IdeaProjects/ptp/client/backend/.venv/lib/python3.12/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/workspace/ptp/client/backend/.venv/lib/python3.12/site-packages" type="simple" />
             <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2025.3/python_stubs/-1320411051" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" type="simple" />
           </root>
@@ -1225,7 +1225,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/IdeaProjects/ptp/client" SDK_UUID="ef746aab-ac07-4e49-a64c-e966513c9225">
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/workspace/ptp/client" SDK_UUID="ef746aab-ac07-4e49-a64c-e966513c9225">
         <setting name="FLAVOR_ID" value="VirtualEnvSdkFlavor" />
         <setting name="FLAVOR_DATA" value="{}" />
       </additional>
